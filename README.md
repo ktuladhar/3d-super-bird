@@ -2,6 +2,12 @@
 
 A pretty, playable, web-based 3D arcade flapping game. It reimagines the classic tap-to-fly gameplay in a polished 3D scene with smooth controls, attractive lighting, and a browser-first experience.
 
+## Live demo
+
+**[Play 3D Super Bird →](https://ktuladhar.github.io/3d-super-bird/)**
+
+Open the link in a modern browser with WebGL enabled. No install required.
+
 ## Getting started
 
 1. Open `index.html` in a modern browser (Chrome, Edge, Firefox, or Safari).
